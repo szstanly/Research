@@ -1,4 +1,4 @@
-﻿Why firms pay dividends
+Why firms pay dividends
 
 # 股利政策无关论
 
@@ -32,10 +32,10 @@
 
 从初步的证据看，欧美市场的信号理论、代理理论和迎合理论似乎无法完全解释中国市场上市公司的现金股利政策，反而是掏空假说和监管假说更有解释力。
 
-[^1]: [税务总局表示:股票转让所得仍不征收个人所得税](http://www.china.com.cn/policy/txt/2008-01/01/content_9464297.htm)
+[1]:[税务总局表示:股票转让所得仍不征收个人所得税](http://www.china.com.cn/policy/txt/2008-01/01/content_9464297.htm)
 
-[^2]: 在美国，虽然股票转让所得需要支付利得税，但是税率低于现金股利所需支付的个人所得税税率。因此对股东而言，股票转让比现金股利更划算。
+[2]:在美国，虽然股票转让所得需要支付利得税，但是税率低于现金股利所需支付的个人所得税税率。因此对股东而言，股票转让比现金股利更划算。
 
-[^3]: Fischer Black, 1976, The Dividend Puzzle, The Journal of Portfolio Management
+[3]:Fischer Black, 1976, The Dividend Puzzle, The Journal of Portfolio Management
 
 10:11 2012/5/21
