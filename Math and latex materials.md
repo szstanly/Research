@@ -16,5 +16,5 @@
 
 + [Short Math Guide for LaTeX](ftp://ftp.ams.org/pub/tex/doc/amsmath/short-math-guide.pdf)
 
- *If need more information on math and LaTeX, please read **[Getting Started with Writing Mathematics in LaTeX](http://jeromyanglim.blogspot.com.au/2010/10/getting-started-with-writing.html)***
+ *If need more information on math and LaTeX, please read* **[Getting Started with Writing Mathematics in LaTeX](http://jeromyanglim.blogspot.com.au/2010/10/getting-started-with-writing.html)**
 
